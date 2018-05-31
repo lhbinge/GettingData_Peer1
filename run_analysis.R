@@ -1,3 +1,5 @@
+#Set working directory
+
 setwd("C:/Users/Laurie/OneDrive/Documents/BING/METRICS/R Coursera")
 
 #Download the data
